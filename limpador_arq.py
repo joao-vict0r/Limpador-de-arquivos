@@ -1,7 +1,7 @@
 import os
 
-# limpar arquivos da pasta escolhida !
-caminho = "C:"
+# limpar arquivos da pasta escolhida 
+caminho = ""
 lista_arquivos = os.listdir(caminho)
 
 
