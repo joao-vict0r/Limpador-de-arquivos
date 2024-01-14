@@ -1,7 +1,7 @@
 import os
 
 # limpar arquivos da paste indicada
-caminho = "C:/Users/joaov/Downloads"
+caminho = ""
 lista_arquivos = os.listdir(caminho)
 
 
